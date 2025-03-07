@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adeel Mughal - Full Stack Web Developer in Saudi Arabia</title>
+    <meta name="description" content="Adeel Mughal - Full-Stack Web Developer with 15 years of experience in designing, developing, and optimizing web applications. Expert in PHP, JavaScript, Laravel, React, and DevOps.">
+    <meta name="keywords" content="Full-Stack Developer, Web Developer, PHP, JavaScript, Laravel, React, Vue, CodeIgniter, DevOps, AWS, APIs, CMS, WordPress, Magento, Web Applications">
+    <meta name="author" content="Adeel Mughal">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+            font-family: 'Inter', sans-serif;
+        }
+        .container {
+            max-width: 800px;
+        }
+        .logo {
+            max-width: 150px;
+        }
+    </style>
+</head>
+<body>
+<div class="container text-left mt-5">
+    <!-- Logo Section -->
+    <img src="logo/logo.svg" alt="Adeel Mughal" class="logo img-fluid">
+
+    <!-- Summary Section -->
+    <h1 class="mt-4">Hello, I'm Adeel Mughal!</h1>
+    <p class="lead">I am a Full-Stack Web App Developer with 15 years of experience in designing, developing, and optimizing web applications. Passionate about clean code, scalable architectures, and cutting-edge technologies.</p>
+
+    <!-- Skills Section -->
+    <h2 class="mt-4">🚀 My Favorite Tools for Web Development</h2>
+
+    <h3 class="mt-3">🖥️ Frontend Development</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">Code Editor: VS Code, WebStorm</li>
+        <li class="list-group-item">Version Control: Git & GitHub</li>
+        <li class="list-group-item">Design Tools: Figma, Adobe XD</li>
+        <li class="list-group-item">Testing: Jest, Cypress</li>
+    </ul>
+
+    <h3 class="mt-3">🛠️ Backend Development</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">Databases: MySQL, PostgreSQL, MongoDB, Redis</li>
+        <li class="list-group-item">Web Servers: Apache, Nginx</li>
+        <li class="list-group-item">DevOps & CI/CD: Docker, Kubernetes, GitHub Actions</li>
+        <li class="list-group-item">Cloud Providers: AWS, DigitalOcean, Vercel, Firebase</li>
+    </ul>
+
+    <h3 class="mt-3">🏆 Programming Languages I Use</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">JavaScript (ES6+), TypeScript, PHP, Python, Go</li>
+        <li class="list-group-item">HTML5 & CSS3 (SCSS, Tailwind CSS, Bootstrap)</li>
+        <li class="list-group-item">SQL & NoSQL (MySQL, PostgreSQL, MongoDB)</li>
+    </ul>
+
+    <h3 class="mt-3">🏗️ Frameworks & Libraries</h3>
+    <h4 class="mt-3">🌐 Frontend</h4>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">React.js / Next.js, Angular, Vue.js / Nuxt.js</li>
+        <li class="list-group-item">HTML5, PixiJS, Tailwind CSS / Bootstrap</li>
+    </ul>
+    <h4 class="mt-3">🏢 Backend</h4>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">Node.js (Express, NestJS), PHP (Laravel, CodeIgniter, Symfony, CakePHP)</li>
+        <li class="list-group-item">.Net / .Net Core, Python (Django, Flask)</li>
+    </ul>
+
+    <h3 class="mt-3">🖥️ CMS & Open Source Platforms</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">WordPress, Joomla, Drupal, Magento</li>
+        <li class="list-group-item">OpenCart, Shopify, WooCommerce, BigCommerce</li>
+    </ul>
+
+    <h3 class="mt-3">🏛 Enterprise Solutions</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">Custom Framework Development, CRM Systems, ERP Systems</li>
+    </ul>
+
+    <h3 class="mt-3">📊 Data Analytics</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">Power BI, Tableau, Qliksense, Lucidchart, MS Excel</li>
+    </ul>
+
+    <h3 class="mt-3">📡 APIs & Communication</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">RESTful APIs, GraphQL, WebSockets (Socket.io)</li>
+    </ul>
+
+    <h3 class="mt-3">🚀 Deployment</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">AWS, Docker, Azure, Google Cloud</li>
+    </ul>
+
+    <h3 class="mt-3">📱 Mobile Apps</h3>
+    <ul class="list-group text-start mx-auto" style="max-width: 800px;">
+        <li class="list-group-item">React Native, Android, iOS, Phonegap</li>
+    </ul>
+
+    <!-- Contact Section -->
+    <h2 class="mt-4">Contact Me</h2>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/adeelmughal4u/" target="_blank">LinkedIn</a></p>
+    <p><strong>Phone:</strong> +966 55 8605 021</p>
+    <p><strong>Email:</strong> adeelmughal4u[@]gmail.com</p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
